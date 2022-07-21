@@ -20,5 +20,7 @@ public class Bike {
          else {
         	 System.out.println("not a prime");
          }
+         
+         System.out.println("MODIFIED");
 }
 }
